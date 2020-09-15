@@ -24,11 +24,7 @@ namespace AplicacionPrueba
                     Console.Write("*"); //Impresion de mi simbolo
                 Console.WriteLine();
             }
-            for (j = 3; j>= number; j--)
-            {
-                // For sin Sentido
-            }
-            
+        
             Console.WriteLine();
              
         }
